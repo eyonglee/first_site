@@ -25,7 +25,7 @@ p {
     line-height: 1.5;
 }
 
-img {
+img, video {
     border: solid 5px #054e6e;
     padding: 10px;
     margin: 20px;
